@@ -60,9 +60,6 @@
 
 ## 📊 Stats & Charts
 
-<!-- GitHub Readme Stats -->
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobriyaaaal&show_icons=true&rank_icon=github&hide_title=false&include_all_commits=true&theme=radical)
-
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dobriyaaaal&layout=compact&langs_count=8&theme=radical)
 
@@ -71,9 +68,6 @@
 
 <!-- Activity Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dobriyaaaal&theme=react-dark&hide_border=true)
-
-<!-- Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=dobriyaaaal&theme=onedark&no-bg=true&no-frame=true&margin-w=10)
 
 <!-- Profile Views -->
 ![Profile views](https://komarev.com/ghpvc/?username=dobriyaaaal&style=flat)
