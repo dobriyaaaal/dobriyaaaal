@@ -76,14 +76,14 @@
 
 ## 🧰 Tech stack
 
-**Languages:** PHP, Python, TypeScript / JavaScript
-**Frontend:** Next.js, React, Tailwind, Radix UI, Framer Motion
-**Backend:** Node.js, Express, FastAPI, PHP (plain + PDO)
-**Databases:** MySQL / MariaDB, MongoDB, PostgreSQL, Supabase
-**AI / ML:** OpenAI API, Gemini API, NVIDIA NIM, Meditron, Qwen
-**Cloud / Infra:** AWS, Azure Blob, Hostinger, Vercel, PM2, Docker (basics)
-**Auth:** Google OAuth, NextAuth, JWT, bcrypt, RBAC / maker-checker
-**Tools:** GitHub Actions, PHPMailer (Zoho SMTP), Telegram Bot API, Razorpay, Twilio
+- **Languages:** PHP, Python, TypeScript / JavaScript
+- **Frontend:** Next.js, React, Tailwind, Radix UI, Framer Motion
+- **Backend:** Node.js, Express, FastAPI, PHP (plain + PDO)
+- **Databases:** MySQL / MariaDB, MongoDB, PostgreSQL, Supabase
+- **AI / ML:** OpenAI API, Gemini API, NVIDIA NIM, Meditron, Qwen
+- **Cloud / Infra:** AWS, Azure Blob, Hostinger, Vercel, PM2, Docker (basics)
+- **Auth:** Google OAuth, NextAuth, JWT, bcrypt, RBAC / maker-checker
+- **Tools:** GitHub Actions, PHPMailer (Zoho SMTP), Telegram Bot API, Razorpay, Twilio
 
 ---
 
