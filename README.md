@@ -17,7 +17,7 @@
 ### 👨‍💻 About me
 - Full-stack developer working with **PHP, Python, Next.js, React, Node.js, FastAPI**.
 - I build custom web apps, SaaS products, LMS platforms, and AI-integrated tools.
-- Currently SDE II (Backend) at **Resobridge** — maker-checker workflows, RBAC, Azure Blob, FastAPI.
+- Currently SDE II (Backend) at **Resobridge**.
 - Available for high-value freelance and contract work — [hire me →](https://amandobriyal.com)
 
 💡 *"Shipping real-world products beats perfect plans."*
@@ -29,7 +29,7 @@
 - MVP development for startups
 - LMS and e-learning platforms with payment integration
 - AI-powered tools (OpenAI, Gemini, NVIDIA NIM)
-- Trade finance and compliance systems
+- Landing pages and websites for businesses and agencies
 - Internal tooling: ticketing, CRM, hosting management
 
 ---
@@ -55,8 +55,15 @@
 - **[ServiceDesk Pro](https://amandobriyal.com/projects/servicedesk)**
   Open-source IT service desk — tickets, RBAC, WhatsApp/Twilio, QR lookup, Chart.js, exports
 
+- **[TheScribes](https://amandobriyal.com/projects/thescribes)**
+  Website for TheScribes, a creative studio offering brand identity, digital design, and content creation
+  _Multi-page structure covering services, work, about, and contact_
+
+- **[Kasa Heavens](https://amandobriyal.com/projects/kasaheavens)**
+  Coming soon
+
 - **[Resobridge](https://amandobriyal.com/projects/resobridge)**
-  Enterprise trade finance compliance platform — maker-checker engine, fine-grained RBAC, Azure Blob
+  Landing page and website for Resobridge, a financial consultancy
 
 <sub>All projects with case studies: [amandobriyal.com](https://amandobriyal.com/#projects)</sub>
 
@@ -92,6 +99,6 @@
 - Portfolio: [amandobriyal.com](https://amandobriyal.com)
 - GitHub: [@dobriyaaaal](https://github.com/dobriyaaaal)
 - LinkedIn: [Aman Dobriyal](https://www.linkedin.com/in/aman-dobriyal-906a21217/)
-- Email: [iamandobriyal@gmail.com](mailto:iamandobriyal@gmail.com)
+- Email: [contact@amandobriyal.com](mailto:contact@amandobriyal.com)
 
 ---
