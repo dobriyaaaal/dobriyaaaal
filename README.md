@@ -59,6 +59,10 @@
 - **[ServiceDesk Pro](https://amandobriyal.com/projects/servicedesk)**
   Open-source IT service desk — tickets, RBAC, WhatsApp/Twilio, QR lookup, Chart.js, exports
 
+- **[HSConnect](https://hsconnect.in)**
+  Corporate website for HSConnect, a PAN-India IT system integrator established in 1989
+  _Enterprise networking, IP surveillance, EPABX, access control, smart automation, structured cabling — with a quote request system_
+
 - **[TheScribes](https://amandobriyal.com/projects/thescribes)**
   Website for TheScribes, a creative studio offering brand identity, digital design, and content creation
   _Multi-page structure covering services, work, about, and contact_
