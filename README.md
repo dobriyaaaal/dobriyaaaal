@@ -29,7 +29,7 @@
 - MVP development for startups
 - LMS and e-learning platforms with payment integration
 - AI-powered tools (OpenAI, Gemini, NVIDIA NIM)
-- Landing pages and websites for businesses and agencies
+- E-commerce platforms and landing pages for businesses
 - Internal tooling: ticketing, CRM, hosting management
 
 ---
@@ -43,6 +43,10 @@
 - **[PharmaLeap](https://amandobriyal.com/projects/pharmaleap)**
   Full-featured LMS for the pharmaceutical industry (Pharmascroll)
   _Course delivery, progress tracking, certificate generation, Razorpay payments_
+
+- **[Kasa Heavens](https://kasaheavens.com)**
+  Full-stack e-commerce platform for a luxury cotton bedding brand
+  _Next.js 14, Supabase, NextAuth, shop + cart + checkout, admin panel, favourites, Framer Motion_
 
 - **[Kollens](https://amandobriyal.com/projects/kollens)**
   Healthcare knowledge platform — AI health assistant, patient management, dual-portal architecture
@@ -59,9 +63,6 @@
   Website for TheScribes, a creative studio offering brand identity, digital design, and content creation
   _Multi-page structure covering services, work, about, and contact_
 
-- **[Kasa Heavens](https://amandobriyal.com/projects/kasaheavens)**
-  Coming soon
-
 - **[Resobridge](https://amandobriyal.com/projects/resobridge)**
   Landing page and website for Resobridge, a financial consultancy
 
@@ -72,12 +73,12 @@
 ## 🧰 Tech stack
 
 **Languages:** PHP, Python, TypeScript / JavaScript
-**Frontend:** Next.js, React, Tailwind, Radix UI
+**Frontend:** Next.js, React, Tailwind, Radix UI, Framer Motion
 **Backend:** Node.js, Express, FastAPI, PHP (plain + PDO)
-**Databases:** MySQL / MariaDB, MongoDB (Mongoose, Beanie ODM)
+**Databases:** MySQL / MariaDB, MongoDB, PostgreSQL, Supabase
 **AI / ML:** OpenAI API, Gemini API, NVIDIA NIM, Meditron, Qwen
-**Cloud / Infra:** AWS, Azure Blob, Hostinger, PM2, Docker (basics)
-**Auth:** Google OAuth, JWT, bcrypt, RBAC / maker-checker
+**Cloud / Infra:** AWS, Azure Blob, Hostinger, Vercel, PM2, Docker (basics)
+**Auth:** Google OAuth, NextAuth, JWT, bcrypt, RBAC / maker-checker
 **Tools:** GitHub Actions, PHPMailer (Zoho SMTP), Telegram Bot API, Razorpay, Twilio
 
 ---
